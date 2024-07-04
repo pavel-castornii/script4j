@@ -1,4 +1,6 @@
-**Important!** This project is very difficult and requires a lot of work and time. We will continue it only if project has 50 stars. So, if you are interested in it star the project!
+| New Project  |
+|:-------------|
+| [JediTermFX](https://github.com/PavelKastornyy/jeditermfx) - Terminal Emulator for JavaFX  that is a port of JediTerm from Swing to JavaFX.JediTermFX exclusively utilizes JavaFX components. Therefore, the Terminal Emulator based on this library can be seamlessly integrated into any JavaFX application.  |
 
 # Script4J
 Script4J is an implementation of Java SE API and JavaFX API in TypeScript/JavaScript.
